@@ -1,0 +1,26 @@
+<annotation>
+	<folder>20181214</folder>
+	<filename>083835_700595.png</filename>
+	<path>/home/li/labelImg-master/ros_traffic_sign/original/20181214/083835_700595.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>320</width>
+		<height>240</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>right</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>272</xmin>
+			<ymin>17</ymin>
+			<xmax>320</xmax>
+			<ymax>66</ymax>
+		</bndbox>
+	</object>
+</annotation>
